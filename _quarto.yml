@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: about me
-      - science.qmd
-      - communication.qmd
-      - data viz.qmd
-      - workshops.qmd
-      - resources.qmd
+      - b_science.qmd
+      - c_communication.qmd
+      - d_data viz.qmd
+      - e_workshops.qmd
+      - f_resources.qmd
 
 format:
   html:
