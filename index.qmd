@@ -18,8 +18,8 @@ As a communicator, I build infrastructure for **happier and courageous** researc
 
 Take a look around and help yourself!
 
-Here is [ My Curriculum](), TL:DR?      
-Here is [My Resume]()
+Here is [ My Curriculum](https://github.com/guerrero-fj/my-website/blob/main/Spring_22_Guerrero_CV.pdf), TL:DR?      
+Here is [My Resume](https://github.com/guerrero-fj/my-website/blob/main/guerrero_2022_summer_resume.pdf) 
 
 
 
