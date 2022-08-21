@@ -5,11 +5,11 @@ title: "Francisco J. Guerrero"
 ```{=html}
 <style>
 body {
-  background-image: url('images/river_aerial_view_2.png');
+  background-image: url('river_aerial_view_2.png');
 }
 </style>
 ```
-<img src="images/guerrero_fj_3.png" alt="Francisco&apos;s portrait" style="float: left; margin: 0 25px 0 0;" width="400"/>
+<img src="guerrero_fj_3.png" alt="Francisco&apos;s portrait" style="float: left; margin: 0 25px 0 0;" width="400"/>
 
 Hello!
 
