@@ -1,11 +1,28 @@
 ---
-title: "my-website"
+title: "Francisco J. Guerrero"
 ---
+<style>
+body {
+  background-image: url('river_aerial_view.png');
+}
+</style>
+<img style="float: left;" src="guerrero_fj_3.png" alt="Francisco's portrait" width="350" height="350"> 
 
-This is a Quarto website.
+Hello you!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a researcher and a science communicator. I care about water and people. 
 
-```{r}
-1 + 1
-```
+As a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth's climate. 
+
+As a communicator, I build infrastructure for **happier and courageous** research: people-first, likable, reliable and "gettable" products, and acknowledging differences in position, power, and privilege.
+
+Take a look around and help yourself!
+
+Here is [ My Curriculum](), TL:DR?      
+Here is [My Resume]()
+
+
+
+
+
+
