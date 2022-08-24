@@ -9,7 +9,7 @@ body {
 }
 </style>
 ```
-<img src="guerrero_fj_3.png" alt="Francisco&apos;s portrait" style="float: left; margin: 0 75px 0 0;" width="275"/>
+<img src="guerrero_fj_4.png" alt="Francisco&apos;s portrait" style="float: left; margin: 0 75px 0 0;" width="275"/>
 
 Hello!
 
