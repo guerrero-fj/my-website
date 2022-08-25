@@ -3,3 +3,5 @@ title: "science"
 ---
 
 Coming soon!
+
+<img src="screenshot.png" alt="A screenshot with a shadow" style="float: left; margin: 0 75px 0 0;" width="275"/>
