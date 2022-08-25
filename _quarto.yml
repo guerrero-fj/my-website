@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "my-website"
+  title: "Francisco J. Guerrero"
   navbar:
     left:
       - href: index.qmd
@@ -14,9 +14,12 @@ website:
       - e_workshops.qmd
       - f_resources.qmd
 
+
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: cyborg
     css: styles.css
     toc: true
 
