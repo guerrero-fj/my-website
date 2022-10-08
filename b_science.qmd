@@ -2,6 +2,22 @@
 title: "science"
 ---
 
-Coming soon!
+<!-- ```{=html} -->
+<!-- <style> -->
+<!-- body { -->
+<!--   background-image: url('river_aerial_view_2.png'); -->
+<!-- } -->
+<!-- </style> -->
+<!-- ``` -->
 
-Adding a change here
+<img src="hja.png" alt="POC export from headwaters conceptual model" style="float: left; margin: 0 75px 0 0;" width="275"/>
+
+Hello!
+
+I am a researcher and a science communicator. I care about water and people.
+
+As a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth's climate.
+
+As a communicator, I build infrastructure for **happier and courageous** research: centered on *people*,  likable, reliable, and "gettable" *products*, and acknowledging differences in position, power, and privilege across multiple *platforms*.
+
+Take a look around and help yourself!
