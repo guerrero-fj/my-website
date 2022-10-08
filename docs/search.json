@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "e_workshops.html",
+    "href": "e_workshops.html",
+    "title": "workshops",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Coming soon!"
   },
   {
     "objectID": "b_science.html",
@@ -21,18 +21,18 @@
     "text": "Coming soon!"
   },
   {
-    "objectID": "d_data viz.html",
-    "href": "d_data viz.html",
-    "title": "data viz",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francisco J. Guerrero",
     "section": "",
-    "text": "Coming soon!"
+    "text": "Hello!\nI am a researcher and a science communicator. I care about water and people.\nAs a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth’s climate.\nAs a communicator, I build infrastructure for happier and courageous research: centered on people, likable, reliable, and “gettable” products, and acknowledging differences in position, power, and privilege across multiple platforms.\nTake a look around and help yourself!\nHere is my curriculum\nToo long; didn’t read?\nHere is my resume\n  \nguerrero.francisco.jose@gmail.com"
   },
   {
-    "objectID": "e_workshops.html",
-    "href": "e_workshops.html",
-    "title": "workshops",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Coming soon!"
+    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "f_resources.html",
@@ -42,10 +42,10 @@
     "text": "Coming soon!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Francisco J. Guerrero",
+    "objectID": "d_data viz.html",
+    "href": "d_data viz.html",
+    "title": "data viz",
     "section": "",
-    "text": "Hello!\nI am a researcher and a science communicator. I care about water and people.\nAs a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth’s climate.\nAs a communicator, I build infrastructure for happier and courageous research: centered on people, likable, reliable, and “gettable” products, and acknowledging differences in position, power, and privilege across multiple platforms.\nTake a look around and help yourself!\nHere is my curriculum\nToo long; didn’t read?\nHere is my resume\n  \nguerrero.francisco.jose@gmail.com"
+    "text": "Coming soon!"
   }
 ]
