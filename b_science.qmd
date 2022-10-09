@@ -10,6 +10,10 @@ title: "science"
 <!-- </style> -->
 <!-- ``` -->
 
+# Resilience in Source to Sink Systems
+
+## From Headwaters to Lake Bottoms
+
 <img src="hja.png" alt="POC export from headwaters conceptual model" style="float: left; margin: 0 75px 0 0;" width="275"/>
 
 Hello!
