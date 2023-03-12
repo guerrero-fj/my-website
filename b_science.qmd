@@ -9,7 +9,9 @@ title: "science"
 
 "It's sedimentary my dear Watson" -Sherrock Holmes
 
-Source to sink systems are part of our everyday life. Imagine how your energy levels change from the moment you get up in the morning until you go to bed at the end of the day. 
+Source to sink systems are part of our everyday life. Imagine tracking how do you spend money on a given month. You start by identifying your sources of money (e.g., income) as well as the sinks of money (e.g, bills, groceries, fun, etc.). Then you can follow your money to know when and how you are spending and if you can abstract general rules that help you manage your money in the best way possible. 
+
+This approach can be extended to materials that move from one place to another in the landscape, like the sediments in a watershed. 
 
 ## What controls Particulate Organic Carbon Export from Headwaters?
 
