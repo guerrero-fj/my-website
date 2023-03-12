@@ -1,9 +1,11 @@
 ---
-title: "Science"
+title: "science"
 ---
 
 
 # Resilience in Source to Sink Systems
+
+## What are Source to Sink Systems or S2SS?
 
 ## What controls Particulate Organic Carbon Export from Headwaters?
 
@@ -23,3 +25,7 @@ Take a look around and help yourself!
 ## What happens to Particulate Organic Carbon when it moves down the river?
 
 <img src="https://raw.githubusercontent.com/guerrero-fj/my-website/main/assets/alsea_attrition.png" alt="POC attrition in Small Mountainous Rivers" style="float: left; margin: 0 75px 0 0;" width="575"/>
+
+## What does sunk Particulate Organic Carbon tell us about watershed resilience to multiple disturbances?
+
+
