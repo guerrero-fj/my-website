@@ -7,6 +7,8 @@ title: "science"
 
 ## What are Source to Sink Systems or S2SS?
 
+"It's sedimentary my dear Watson"
+
 ## What controls Particulate Organic Carbon Export from Headwaters?
 
 <img src="https://raw.githubusercontent.com/guerrero-fj/my-website/main/assets/hja.png" alt="POC export from headwaters conceptual model" style="float: left; margin: 0 75px 0 0;" width="575"/>
