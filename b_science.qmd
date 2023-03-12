@@ -9,6 +9,8 @@ title: "science"
 
 "It's sedimentary my dear Watson" -Sherrock Holmes
 
+Source to sink systems are part of our everyday life. Imagine how your energy levels change from the moment you get up in the morning until you go to bed at the end of the day. 
+
 ## What controls Particulate Organic Carbon Export from Headwaters?
 
 <img src="https://raw.githubusercontent.com/guerrero-fj/my-website/main/assets/hja.png" alt="POC export from headwaters conceptual model" style="float: left; margin: 0 75px 0 0;" width="575"/>
