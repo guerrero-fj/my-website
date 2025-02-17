@@ -1,0 +1,101 @@
+---
+title: "Resume"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    number-sections: false
+    fontsize: 12pt
+    include-in-header:
+      text: |
+        \usepackage{geometry}
+        \geometry{left=1in, right=1in, top=0.5in, bottom=0.5in}
+        \usepackage{titlesec}
+        
+        % Section hierarchy formatting
+        \titleformat{\section}
+          {\fontsize{20}{24}\bfseries\raggedright}{}{0em}{}
+        \titlespacing{\section}{0pt}{12pt}{6pt}
+        
+        \titleformat{\subsection}
+          {\fontsize{16}{20}\bfseries\raggedright}{}{0em}{}
+        \titlespacing{\subsection}{0pt}{12pt}{6pt}
+        
+        \titleformat{\subsubsection}
+          {\fontsize{14}{18}\bfseries\raggedright}{}{0em}{}
+        \titlespacing{\subsubsection}{0pt}{12pt}{6pt}
+
+        \titleformat{\paragraph}[runin]  % Critical fix
+          {\normalsize\bfseries}{}{0em}{}
+        \titlespacing{\paragraph}{0pt}{6pt}{0pt}
+        
+        \renewcommand{\maketitle}{\raggedright\huge\bfseries Resume \vspace{0.5em} \hrule}
+editor: visual
+---
+
+# Francisco J. Guerrero
+
+**2155 Laura Vista Dr. NW \| Albany, OR, 97321 \| 458-253-0311 \| francisco.j.guerrero\@water.oregon.gov**
+
+## Professional Summary
+
+Dynamic water resources professional with over 20 years of experience in project leadership, complex water policy analysis, equity-focused stakeholder engagement, and strategic collaboration at local, state, and international levels. Demonstrated success in integrating science, policy, and communication to address sensitive statewide and basin-level water challenges. Adept at negotiation, conflict resolution, project management, and fostering partnerships with tribal nations, federal/state agencies, and community stakeholders to drive innovative, sustainable water solutions.
+
+## Core Competencies & Skills
+
+Conflict Resolution & Negotiation \| Portfolio & Project Management \| Equity-Focused Collaboration \| Water Law & Policy Analysis \| Stakeholder & Tribal Engagement \| Technical Assistance & Rulemaking \| Science Communication & Outreach \| Strategic Planning & Team Leadership
+
+## Job Duties Alignment
+
+### 1. Portfolio and Project Management
+
+#### Senior Technical Analyst
+
+*Oregon Water Resources Department \| Sep 2023 – Present (Hybrid: Corvallis & Salem, OR)* - Overseeing complex basin-scale initiatives such as the first Seasonally Varying Flow (SVF) study for an Aquifer Storage and Recovery project in the North Santiam River Basin, employing collaborative decision-making among multiple agencies and stakeholders. - Providing strategic guidance and leadership to incoming and transitioning Senior Water Advisors, ensuring seamless handover of critical projects (e.g., Deschutes River Basin portfolio) while mediating potential conflicts across teams and programs. - Coordinating inter-sectional teams to identify needed policy adjustments and maintain compliance with Oregon Water Law, negotiating consensus-driven solutions that bridge multiple program areas.
+
+#### **Lead Worker**
+
+*Oregon Water Resources Department \| Temporary Assignment Dec 2024 - March 2025 -* Led a team of four direct reports by conducting bi-weekly check-ins, providing coaching, and addressing concerns to ensure timely task completion. Coordinated tasks and priorities with the Grants team, resolving workload conflicts through clear communication and collaboration. Facilitated PCI Team Meetings to discuss ongoing projects, deadlines, and cross-team coordination, escalating issues to leadership as needed. Reviewed and refined rulemaking drafts for Divisions 601 & 602, working with staff to finalize language, incorporate stakeholder feedback, and support Commission presentations. Provided strategic input on Drought Vulnerability Assessments, Place-Based Planning initiatives, and legislative matters related to the PCI program, ensuring alignment with agency goals and identifying potential policy challenges.
+
+### 2. Analysis/Evaluation and Technical Assistance
+
+#### **Senior Technical Analyst**
+
+*Oregon Water Resources Department \| Sep 2023 – Present* - Conducting in-depth evaluations of SVF (Seasonally Varying Flow) studies in coordination with tribal nations, negotiating resource solutions that respect cultural values and legal obligations. - Reviewing technical assistance needs for Place-Based Planning across Oregon, providing consensus-driven recommendations that integrate local priorities, basin-specific characteristics, and statewide resource objectives. - Serving as a technical reviewer on a multi-agency panel evaluating Feasibility Study Grants, applying conflict resolution strategies to reconcile differing project goals while ensuring compliance with Oregon Water Law and water rights regulations.
+
+### 3. Agency Representation
+
+#### **Senior Technical Analyst**
+
+*Oregon Water Resources Department \| Sep 2023 – Present* - Representing OWRD in SVF study reviews, negotiating policy alignments among tribal nations, federal/state agencies, and local stakeholders to ensure equitable water management solutions. - Facilitating stakeholder dialogues to balance cultural values, water rights, and ecological goals, leveraging conflict resolution techniques to secure broad-based support for basin-level proposals. - Actively participating in high-level transition planning, onboarding new Senior Water Advisors, and aligning statewide strategies for water resource management through collaborative decision-making.
+
+### 4. Communication and Coordination of Complex Issues
+
+#### **Senior Technical Analyst**
+
+*Oregon Water Resources Department \| Sep 2023 – Present* - Coordinating inter-sectional, cross-agency, and tribal communications for the SVF study, resolving differing viewpoints by converting complex technical data into accessible formats. - Teaming with Community Engagement Coordinators to design outreach materials that clarify OWRD’s strategic direction, promoting transparent and inclusive water management decisions. - Streamlining data-to-people workflows, leveraging generative AI for policy analysis, enhancing clarity and consistency in statewide water communication to facilitate informed consensus.
+
+## Education
+
+**Ph.D. in Water Resources (focus on Watershed Biogeochemistry / Geomorphology)**\
+*Oregon State University \| 2018*\
+Research on Alsea & Umpqua River Basins, Blue River Basin (HJ Andrews), exploring sedimentology, carbon flux, and long-term watershed processes.
+
+**M.Sc in Hydrosystems (focus on Ecohydrology / Ecohidraulics)**\
+*Pontificia Universidad Javeriana, Colombia \| 2011*\
+Ecohydraulic modeling of particulate organic matter transport in tropical mountain streams.
+
+**Bachelor of Science in Aquatic Biology (Focus on Stream Ecology)**\
+*University of Magdalena, Colombia \| 2005*\
+Field experiments on aquatic litter decomposition in the Gaira River, Sierra Nevada de Santa Marta.
+
+## Additional Information
+
+-   2018 Mass Media Fellow, American Association for the Advancement of Science (Placed at CNN Español).
+-   Published mass media articles & graphical abstracts on water resources, ecology, and public health topics.
+-   Authored multiple peer-reviewed papers and delivered invited talks across international conferences.
+-   Fluent in English & Spanish; proficient in R, Python, GIS, hydrological modeling, and generative AI tools.
+
+## References
+
+Available upon request.

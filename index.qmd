@@ -1,40 +1,28 @@
 ---
-title: "Francisco J. Guerrero"
+#title: ""
+image: images/guerrero_fg_24_2.jpg
+toc: false
+about:
+  template: jolla
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/fjguerrerob/"
+      target: _blank
+    - text: 🦋 Bluesky
+      url: "https://bsky.app/profile/guerrero-fj.bsky.social"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/guerrero-fj"
+    # - text: Email
+    - icon: envelope
+      href: mailto:guerrero.francisco.jose@gmail.com
 ---
+::: {#bio}
+Hi there! I'm Francisco Guerrero (my last name is pronounced "ge-*as in get*, rhe-*as in recipe*, and roh-*as in roman*"). I'm an environmental scientist and water resources specialist with 20+ years of **bridging research, policy, and strategic communication** to tackle complex water and environmental challenges. I'm amazed by the extraordinary role that the interaction between **rivers and forests** in tropical and temperate mountains play in regulating **earth's climate**. I currently work for the Oregon Water Resources Department where I provide technical support for **multimillion** programs and projects that protect water through strategic planning, policy analysis, and interdisciplinary collaboration. Outside of work, I'm an **avid movie watcher**, dog-lover, and a devoted husband. Poke around to learn more [about me](about.qmd) and my work!
 
-<!-- ```{=html} -->
-<!-- <style> -->
-<!-- body { -->
-<!--   background-image: url('river_aerial_view_2.png'); -->
-<!-- } -->
-<!-- </style> -->
-<!-- ``` -->
-
-<img src="guerrero_fj_4.png" alt="Francisco&apos;s portrait" style="float: left; margin: 0 75px 0 0;" width="275"/>
-
-Hello!
-
-I am a researcher and a science communicator. I care about rivers, forests, and people.
-
-As a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth's climate.
-
-As a communicator, I build infrastructure for **happier and courageous** research: centered on *people*,  likable, reliable, and "gettable" *products*, and acknowledging differences in position, power, and privilege across multiple *platforms*.
-
-Take a look around and help yourself!
-
-Here is my [curriculum](https://github.com/guerrero-fj/my-website/blob/main/Spring_22_Guerrero_CV.pdf)
-
-Too long; didn't read?
-
-Here is my [resume](https://github.com/guerrero-fj/my-website/blob/main/guerrero_2022_summer_resume.pdf)
-
-<a href="https://github.com/guerrero-fj"><img src="github-logo.png" width="5%" alt="github logo"></a>
-<a href="https://www.linkedin.com/in/fjguerrerob/"><img src="linkedin-logo.png" width="5%" alt="linkedin logo"></a>
-<a href="https://twitter.com/fjguerrerob"><img src="twitter-logo.png" width="5%" alt="twitter logo"></a>
-
-**guerrero.francisco.jose@gmail.com**
-
-
-
-
-
+<!-- ::: {#landing-icons} -->
+<!-- [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/fjguerrerob/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/guerrero-fj){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/guerrero-fj.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:guerrero.francisco.jose@gmail.com) -->
+<!-- ::: -->
+<!-- ::: -->

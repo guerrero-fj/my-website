@@ -4,10 +4,13 @@ project:
 
 website:
   title: "Francisco J. Guerrero"
+  site-url: "https://fjguerrero.github.io"
   navbar:
+    title: false
     left:
       - href: index.qmd
-        text: about me
+        text: Home
+      - about.qmd
       - b_science.qmd
       - c_communication.qmd
       - d_data viz.qmd
