@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -65,51 +64,50 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Francisco J. Guerrero</span>
-    </a>
-  </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
- <span class="menu-text">about me</span></a>
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./b_science.html">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">about</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./b_science.html" rel="" target="">
  <span class="menu-text">science</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./c_communication.html">
+    <a class="nav-link" href="./c_communication.html" rel="" target="">
  <span class="menu-text">communication</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./d_data viz.html">
+    <a class="nav-link" href="./d_data viz.html" rel="" target="">
  <span class="menu-text">data viz</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./e_workshops.html">
+    <a class="nav-link" href="./e_workshops.html" rel="" target="">
  <span class="menu-text">workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./f_resources.html">
+    <a class="nav-link" href="./f_resources.html" rel="" target="">
  <span class="menu-text">resources</span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -118,51 +116,40 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<div class="quarto-about-jolla">
+  <img src="images/guerrero_fg_24_2.jpg" class="about-image
+  round " style="height: 20em; width: 20em;">
+ <main class="content" id="quarto-document-content">
+<p>::: {#bio} Hi there! I’m Francisco Guerrero (my last name is pronounced “ge-<em>as in get</em>, rhe-<em>as in recipe</em>, and roh-<em>as in roman</em>”). I’m an environmental scientist and water resources specialist with 20+ years of <strong>bridging research, policy, and strategic communication</strong> to tackle complex water and environmental challenges. I’m amazed by the extraordinary role that the interaction between <strong>rivers and forests</strong> in tropical and temperate mountains play in regulating <strong>earth’s climate</strong>. I currently work for the Oregon Water Resources Department where I provide technical support for <strong>multimillion</strong> programs and projects that protect water through strategic planning, policy analysis, and interdisciplinary collaboration. Outside of work, I’m an <strong>avid movie watcher</strong>, dog-lover, and a devoted husband. Poke around to learn more <a href="./about.html">about me</a> and my work!</p>
+<!-- ::: {#landing-icons} -->
+<!-- [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/fjguerrerob/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/guerrero-fj){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/guerrero-fj.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:guerrero.francisco.jose@gmail.com) -->
+<!-- ::: -->
+<!-- ::: -->
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Francisco J. Guerrero</h1>
+
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://www.linkedin.com/in/fjguerrerob/" class="about-link" rel="" target="_blank">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://bsky.app/profile/guerrero-fj.bsky.social" class="about-link" rel="" target="">
+     <span class="about-link-text">🦋 Bluesky</span>
+  </a>
+  <a href="https://github.com/guerrero-fj" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="mailto:guerrero.francisco.jose@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text"></span>
+  </a>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<!-- ```{=html} -->
-<!-- <style> -->
-<!-- body { -->
-<!--   background-image: url('river_aerial_view_2.png'); -->
-<!-- } -->
-<!-- </style> -->
-<!-- ``` -->
-<p><img src="guerrero_fj_4.png" alt="Francisco's portrait" style="float: left; margin: 0 75px 0 0;" width="275"></p>
-<p>Hello!</p>
-<p>I am a researcher and a science communicator. I care about water and people.</p>
-<p>As a researcher, I study what happens to leaves and twigs that fall into rivers and streams. It turns out that all that litter not only affects water quality but also is important to maintain earth’s climate.</p>
-<p>As a communicator, I build infrastructure for <strong>happier and courageous</strong> research: centered on <em>people</em>, likable, reliable, and “gettable” <em>products</em>, and acknowledging differences in position, power, and privilege across multiple <em>platforms</em>.</p>
-<p>Take a look around and help yourself!</p>
-<p>Here is my <a href="https://github.com/guerrero-fj/my-website/blob/main/Spring_22_Guerrero_CV.pdf">curriculum</a></p>
-<p>Too long; didn’t read?</p>
-<p>Here is my <a href="https://github.com/guerrero-fj/my-website/blob/main/guerrero_2022_summer_resume.pdf">resume</a></p>
-<p><a href="https://github.com/guerrero-fj"><img src="github-logo.png" width="5%" alt="github logo"></a> <a href="https://www.linkedin.com/in/fjguerrerob/"><img src="linkedin-logo.png" width="5%" alt="linkedin logo"></a> <a href="https://twitter.com/fjguerrerob"><img src="twitter-logo.png" width="5%" alt="twitter logo"></a></p>
-<p><strong>guerrero.francisco.jose@gmail.com</strong></p>
-
-
-
-</main> <!-- /main -->
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -298,16 +285,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -372,6 +366,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
