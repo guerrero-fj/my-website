@@ -11,8 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - b_science.qmd
-      - c_communication.qmd
+      - science.qmd
+      - communication.qmd
       - d_data viz.qmd
       - e_workshops.qmd
       - f_resources.qmd

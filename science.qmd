@@ -1,0 +1,67 @@
+---
+title: "science"
+subtitle: "a bit more about my curiosity-driven research endeavors"
+title-block-banner: true
+---
+
+# My Approach to Science
+
+My scientific approach is driven by **curiosity** and a **slow, careful weaving of data and analyses** to answer highly complex questions. I believe that solving these challenges requires an **interdisciplinary mindset**, integrating diverse perspectives to uncover deeper insights into natural systems.
+
+## Research Themes
+
+### Carbon Fluxes in Source-to-Sink Systems
+
+#### What Are Source-to-Sink Systems?
+Source-to-sink systems describe the **movement of carbon from its point of origin (source) to its ultimate storage location (sink)**. These systems are crucial for **climate regulation** as they determine how much carbon is released into the atmosphere versus how much is sequestered in long-term reservoirs such as soils, sediments, and aquatic environments. Understanding these pathways helps to reveal the resilience of landscapes in regulating global carbon cycles.
+
+#### Carbon Storage and Release in Headwater Systems
+My doctoral research investigated the **dual role of headwater systems** in the Oregon Cascades as both carbon storage and release compartments. This work explored how headwater environments mediate carbon transport, controlling the balance between long-term sequestration and short-term fluxes into downstream systems.
+
+#### Dynamics of Organic Carbon Transport
+Another key focus was on the **dynamics of organic carbon particles traveling from headwaters to river mouths**. By tracking particulate organic carbon (POC) movement, I analyzed how different factors—such as hydrological events and sediment interactions—affect carbon fluxes across watershed scales.
+
+#### Millennial-Scale Organic Carbon Export and Burial
+I also examined **millennial-scale organic carbon export and burial** in the Oregon Coast Range, highlighting the role of geomorphic processes in determining carbon sequestration potential. This study provided insights into how long-term landscape evolution influences the efficiency of carbon burial in sedimentary basins.
+
+### Carbon Dynamics Across the Landscape: the DBGCR Hypothesis
+Building upon this foundation, I am currently developing the **Dynamic Bio-Geomorphic Fabric for Carbon Redistribution (DBGCR) hypothesis**. This hypothesis reframes the role of forests in the Oregon Coast Range, proposing that they function as **dynamic climatic buffers** rather than static carbon sinks or sources. It suggests that:
+
+  - Carbon redistribution is regulated by landscape feedback mechanisms rather than a simple input-output system.
+  - Disturbance regimes play a pivotal role in priming landscapes for efficient carbon burial.
+  - The interplay between vegetation, hydrology, and geomorphic processes defines long-term carbon storage potential.
+
+### From Variability to Information Theory
+Through my research, I recognized that **changes in variability** contain essential signals of natural history. This realization led me to apply **information theory** as a tool to analyze how natural systems encode and evolve over time. This perspective has guided my broader work on:
+- The **role of uncertainty and entropy** in ecological and geomorphic transitions.
+- The **Generalized Entropic Uncertainty Principle (GEUP)**, which explores the nonlinear evolution of uncertainty in complex systems.
+
+## Featured Projects & Publications
+
+::: {.callout-note collapse=true}
+## Current Research
+- **Uncertainty in Natural Systems** *(Manuscript in Preparation)*
+- **Carbon Redistribution in the Oregon Coast Range** *(Analysis in Progress)*
+- **Information-Theory-Based Framework for Crop Rotation Complexity** *(Development Ongoing)*
+:::
+
+::: {.callout-note collapse=true}
+## Selected Publications & Reports
+- **Voter et al. (2021)** – *University-Agency Fellowship Program* ([Journal of Contemporary Water Research and Education](https://ucowr.org/wp-content/uploads/2021/12/174_Voter_et_al.pdf))
+- **Graça et al. (2015)** – *Conceptual Model of Litter Breakdown* ([International Review Hydrobiology](https://onlinelibrary.wiley.com/doi/abs/10.1002/iroh.201401757))
+- **Guerrero-Bolaño et al. (In Preparation)** – *Broken then Mixed: Muddling of Biospheric POC in Small Mountainous Rivers* (Target: EGU-Biogeosciences)
+- **Guerrero-Bolaño et al. (In Preparation)** – *Biogeochemical and Erosional Controls of Long-term POC Exports from Headwaters* (Target: Journal of Geophysical Research-Biogeosciences)
+- **Guerrero-Bolaño et al. (In Preparation)** – *Resilience in Source to Sink Systems: A Millennial Record of Watershed Responses to Disturbance* (Target: EGU-Biogeosciences)
+:::
+
+::: {.callout-note collapse=true}
+## Selected Academic Presentations
+- **Guerrero-Bolaño et al. (2021)** – *Biogeochemical and erosional controls on long-term POC exports from headwaters* (ASLO – Oral)
+- **Guerrero-Bolaño et al. (2017)** – *Resilience in source-to-sink systems: A Millennial Record of Watershed Responses to Disturbance* (AGU – Poster)
+- **Guerrero-Bolaño et al. (2016)** – *Information theory and the assessment of hydrological change in freshwater ecosystems* (SFS – Oral)
+- **Guerrero-Bolaño et al. (2015)** – *Reconstructing Historical Changes in Watersheds from Environmental Records: An Information Theory Approach* (AGU – Oral, Outstanding Student Presentation Award)
+- **Guerrero-Bolaño et al. (2015)** – *A Compass for Nature? Entropy in Watershed Responses to Disturbances* (AFS – Poster)
+:::
+
+## Let's Collaborate
+If you are interested in interdisciplinary research about carbon, climate, and landscapes, I would love to connect. [Get in Touch](mailto:guerrero.francisco.jose@gmail.com).

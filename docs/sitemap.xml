@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fjguerrero.github.io/index.html</loc>
-    <lastmod>2025-02-18T02:23:25.898Z</lastmod>
+    <lastmod>2025-02-18T02:23:25.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/e_workshops.html</loc>
-    <lastmod>2025-02-18T02:18:23.492Z</lastmod>
+    <lastmod>2025-02-18T02:17:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/guerrero-resume.html</loc>
@@ -14,26 +14,34 @@
   </url>
   <url>
     <loc>https://fjguerrero.github.io/guerrero-pdf-resume.html</loc>
-    <lastmod>2025-02-18T02:18:24.459Z</lastmod>
+    <lastmod>2025-02-19T02:44:23.545Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/f_resources.html</loc>
-    <lastmod>2025-02-18T02:18:25.016Z</lastmod>
+    <lastmod>2025-02-18T02:17:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/about.html</loc>
-    <lastmod>2025-02-18T02:18:31.361Z</lastmod>
+    <lastmod>2025-02-18T02:17:28.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/b_science.html</loc>
-    <lastmod>2025-02-18T02:18:33.654Z</lastmod>
+    <lastmod>2025-02-18T02:17:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/c_communication.html</loc>
-    <lastmod>2025-02-18T02:18:37.255Z</lastmod>
+    <lastmod>2025-02-18T02:17:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://fjguerrero.github.io/d_data viz.html</loc>
-    <lastmod>2025-02-18T02:18:39.320Z</lastmod>
+    <lastmod>2025-02-18T02:17:29.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fjguerrero.github.io/science.html</loc>
+    <lastmod>2025-02-19T02:55:53.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fjguerrero.github.io/communication.html</loc>
+    <lastmod>2025-02-19T02:45:01.509Z</lastmod>
   </url>
 </urlset>

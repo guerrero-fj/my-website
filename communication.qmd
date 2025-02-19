@@ -1,0 +1,96 @@
+---
+title: "communication"
+subtitle: "a bit more about my work weaving scientific knowledge into society"
+title-block-banner: true
+---
+
+# The Role of Science Communication in My Work
+
+Science communication has been at the core of my career, bridging the gap between research, policy, and public understanding. My goal has always been to make complex scientific insights more accessible and actionable, whether through direct engagement with policymakers, public writing, or training other scientists in effective communication. Below, I outline the key aspects of my science communication journey, from media outreach to workshops and invited talks.
+
+## Science Communication Experience
+
+### Science Communication Liaison
+During my time at the **National Center for Ecological Analysis and Synthesis (NCEAS)** and **COMPASS Science Communication**, I worked closely with researchers to refine their messaging and communicate their findings in meaningful ways. My role involved:
+- Training and coaching NCEAS research teams on science communication strategies.
+- Helping develop a science-policy program at COMPASS, ensuring that cutting-edge research informed regional policy solutions along the West Coast.
+- Bridging gaps between scientific research and public engagement, focusing on making environmental insights more actionable.
+
+## Bringing Science to the Public: Writing for Mass Media
+Beyond academic circles, I have engaged in public science communication by writing mass media articles. These pieces aimed to translate complex scientific issues into accessible narratives for broad audiences.
+
+::: {.callout-note collapse=true}
+### Articles Published in CNN Español
+- **“¿Vives en el trópico y sufres de asma severa?”** (July 3rd, 2018)
+- **“Mindfulness y meditación: un experto explica el trasfondo de esta práctica milenaria”** (July 14th, 2018)
+- **“Los ríos también aumentan el nivel del mar, no sólo el deshielo”** (July 19th, 2018)
+- **“Una despensa de proporciones selváticas: los milenarios sistemas agroforestales de la amazonia”** (August 3rd, 2018)
+:::
+
+## Using Visual Narratives: Graphical Abstracts
+I have also used **graphical abstracts** to communicate research findings in an engaging and concise format. These serve as visual summaries that make scientific concepts more digestible for online audiences.
+
+::: {.callout-note collapse=true}
+### Graphical Abstracts via Twitter
+- **“Gut Microbiota Components and Fixed Airway Obstruction”** [Tweet](https://twitter.com/fjguerrerob/status/1014342742149918725)
+- **“Your Body Under Stress and Meditation: The Science Behind It”** [Tweet](https://twitter.com/fjguerrerob/status/1018845673272365057)
+- **“River Discharge Also Controls Sea-Level Changes”** [Tweet](https://twitter.com/fjguerrerob/status/1020300374882897921)
+- **“How Did Amazonian Indigenous Societies Manage Their Forests Sustainably for 4000 Years?”** [Tweet](https://twitter.com/fjguerrerob/status/1026522360122355714)
+- **Besley et al., 2021 – Scientists’ Willingness to Use Different Communication Tactics** [Tweet](https://twitter.com/fjguerrerob/status/1389624647923036161)
+:::
+
+## Teaching Scientists to Communicate: Workshops and Training
+One of the most rewarding aspects of my work has been training scientists to communicate effectively. I have led multiple workshops focused on improving public engagement, presentation skills, and science-policy communication.
+
+::: {.callout-note collapse=true}
+### Workshop Instructor Experience
+- **The Message Box Workshop** – NCEAS & COMPASS (August 2020 - October 2021)
+- **“The Power Beyond the Bullet Point”** – Pacific Northwest Water Research Symposium, Oregon State University (April 2021)
+- **“The Power Beyond the Bullet Point”** – Wisconsin Department of Natural Resources (March 2019)
+- **McCall Outdoor Science School (MOSS), Solar Science Program** – University of Idaho (Fall 2017)
+- **“LaRGe – Making Your Presentations Likable, Reliable, and Gettable”** – Oregon State University (Spring/Fall 2014-2018)
+:::
+
+## Sharing Insights at Conferences: Science Communication Presentations
+I have presented my science communication insights at national and international conferences, advocating for clearer and more effective knowledge exchange across disciplines.
+
+::: {.callout-note collapse=true}
+### Selected Science Communication Presentations
+- **“Effective Communication for Scientists in a Hurry: A Cheatsheet”** – NCEAS Roundtables, UCSB (March 24th, 2021, Virtual)
+- **“Are Knowledge Brokers an Endangered Species in Environmental Business Ecosystems?”** – American Water Resources Association, WI (March 2020, Rescheduled for Fall 2020 due to COVID-19)
+- **“Ecosystem Memories”** – Nerd Nite, ASLO (March 2017)
+- **“Forests Have Memories”** – Science Talk Northwest, OMSI (January 2017)
+:::
+
+## Science and Policy: Communicating Research for Decision-Making
+One of the key intersections of science communication is its role in **shaping policy decisions**. By presenting research findings in ways that policymakers can understand and use, I have contributed to bridging the gap between science and environmental governance.
+
+- **“Estimating Long-Term Median Total Phosphorus Concentrations in Streams by Controlling for Seasonal and Weather Variation”** – University of Wisconsin-Madison Water Science Institute | Wisconsin Department of Natural Resources (November 2019)
+
+## Engaging the Public Through Radio and Podcasts
+I have participated in **radio interviews and podcasts** to discuss scientific research and the role of science journalism in shaping public discourse.
+
+::: {.callout-note collapse=true}
+### Radio Interviews & Podcasts
+- **“Francisco Guerrero-Bolano: Science Journalism at CNN en Español”** – *Inspiration Dissemination, KBVR* (September 2018)
+- **“Deciphering the Language of the Universe”** – *Inspiration Dissemination, KBVR* (October 2015)
+:::
+
+## A Background in Scientific Journalism
+My early experiences in scientific journalism set the foundation for my work in science communication. As a **research assistant and editorial committee’s assistant**, I helped curate and produce scientific content.
+
+- **Instituto de Investigaciones Tropicales (INTROPIC)** – Editorial Committee’s Assistant, *Intropica Journal* (Mar 2004 - Dec 2005, Santa Marta, Colombia)
+- **Universidad del Magdalena** – Research Assistant (Mar 2004 - Dec 2005, Santa Marta, Colombia)
+
+## Invited Talks on Science Communication
+Finally, I have been invited to speak at various institutions on the topic of science communication, engaging audiences in discussions about how to better translate scientific knowledge into meaningful action.
+
+::: {.callout-note collapse=true}
+### Invited Talks
+- **“Should We Bury Our Forest at the Bottom of the Ocean to Fight Climate Change?”** – Hatfield Marine Science Center, OSU (January 13, 2021, Virtual)
+- **“Effective Communication at the Science-Engineering-Policy Interface”** – Environmental Chemistry & Technology Seminar, UW-Madison (November 5, 2021, Virtual)
+- **“The Science-News Cycle”** – University of Magdalena, Colombia (October 7, 2020, Virtual)
+:::
+
+## Let's Collaborate
+If you are interested in interdisciplinary communication projects or science engagement initiatives, I would love to connect. [Get in Touch](mailto:guerrero.francisco.jose@gmail.com).
